@@ -11,8 +11,14 @@ Power BI Desktop, users can do:
 
 ## My two dashboard
 
-#### Analysing the products sale in 3 years (2016-2018)-Basic  
+#### 1) Analysing the products sale in 3 years (2016-2018)-Basic  
 Created a dynamic Power BI dashboard from scratch where analysing the sales of many products in three years from different countries. There are three types of costumers in pie chart (Gold, Silver, Platinum) with different colours. We have used in Visualization tab, Average line in a Column Chart, Horizontal Bar Chart with filter option and Edit Interaction features.
 
-#### Data Visualization with Zomato datasets    
+#### 2) Data Visualization with Zomato datasets    
 Created a dashboard and visualizing data by using ZOMATO datasets. You can check number of restaurants in each country, food delivery status, pricing, average sales by clicking on country code.
+
+I steps that covered are as follows :
+1) Connecting Database with Power BI Desktop. (Get Data)
+2) Data Cleaning using Power Query Editor. (Transform)
+3) Analysing the tables and relationship. (Model)
+4) Developed an interactive Power BI dashboard. (Visualize)
