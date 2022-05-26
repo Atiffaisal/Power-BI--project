@@ -7,6 +7,11 @@ Power BI Desktop, users can do:
 - Create charts and graphs
 - Create reports and dashboards that are collections of visuals
 - Share reports with others using the Power BI service
+
+## Dashboard & Report
+- Dashboards monitor live, incoming data from multiple datasets and organize the information into one central location.
+- Reports are static collections of data.
+
 <img align="center" alt="Coding" width="200" height="50" src="https://user-images.githubusercontent.com/105930761/170353458-fdf28506-76db-4c79-800c-cf25544136d3.png">
 
 ## My two dashboard
