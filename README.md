@@ -27,3 +27,6 @@ I steps that covered are as follows :
 2) Data Cleaning using Power Query Editor. (Transform)
 3) Analysing the tables and relationship. (Model)
 4) Developed an interactive Power BI dashboard. (Visualize)
+
+<img align="center" alt="Coding" width="1000" height="500" src="https://user-images.githubusercontent.com/105930761/170554793-a59afe83-e788-4608-8b7c-473947f66c50.jpg">
+
