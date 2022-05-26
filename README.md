@@ -14,7 +14,7 @@ Power BI Desktop, users can do:
 
 <img align="center" alt="Coding" width="200" height="50" src="https://user-images.githubusercontent.com/105930761/170353458-fdf28506-76db-4c79-800c-cf25544136d3.png">
 
-## My two dashboard
+## My two Dashboards
 
 #### 1) Analysing the products sale in 3 years (2016-2018)-Basic  
 Created a dynamic Power BI dashboard from scratch where analysing the sales of many products in three years from different countries. There are three types of costumers in pie chart (Gold, Silver, Platinum) with different colours. We have used in Visualization tab, Average line in a Column Chart, Horizontal Bar Chart with filter option and Edit Interaction features.
