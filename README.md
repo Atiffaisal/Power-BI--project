@@ -33,3 +33,8 @@ I steps that covered are as follows :
 
 <img align="center" alt="Coding" width="800" height="400" src="https://user-images.githubusercontent.com/105930761/170554793-a59afe83-e788-4608-8b7c-473947f66c50.jpg">
 
+
+<img align="center" alt="Coding" width="800" height="400" src="IBM.jpg">
+
+<img align="center" alt="Coding" width="800" height="400" src="Phone storage/GitHub/GCDA.jpg">
+
